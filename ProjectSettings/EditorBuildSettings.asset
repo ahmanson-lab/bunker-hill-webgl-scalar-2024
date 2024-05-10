@@ -9,13 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 0
-    path: Assets/Scenes/Figeuroa_to_Hope.unity
+    path: Assets/Scenes/Figeuroa_to_Hope_1_Old_Roads_Terrain.unity
     guid: 73272fc44bbf34a4da28bc0eaff23f5b
   - enabled: 0
     path: Assets/Scenes/Figeuroa_to_Hope 2.unity
     guid: fbc4ece45eb283b47b42c50238e20865
   - enabled: 1
-    path: Assets/Scenes/Figeuroa_to_Hope_3.unity
+    path: Assets/Scenes/Figeuroa_to_Hope_2_New_Roads_Terrain.unity
     guid: f2250c45bd23c704682b98b923a5c7a9
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
