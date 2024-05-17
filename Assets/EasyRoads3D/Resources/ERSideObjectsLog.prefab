@@ -15208,6 +15208,226 @@ MonoBehaviour:
     trafficPosts: []
     activeTrafficPostIndex: -1
     showTrafficPosts: 0
+  - roadTypeName: '15ft Street '
+    id: 1715969480.103787
+    timestamp: 1715969561.076737
+    roadWidth: 3.165
+    totalLanes: 2
+    laneWidth: 3.5
+    medianWidth: 0
+    shoulderWidthLeft: 1
+    shoulderWidthRight: 1
+    advancedWidthSettings: 0
+    faceDistance: 2
+    angleTreshold: 45
+    uvTiling: 1
+    uv4Type: 0
+    type: 1
+    detailDistance: 50
+    planarUVs: 0
+    outerIndent: 0.5
+    roadShapeDataActive: 0
+    roadShapeData:
+      nodes:
+      - {x: 4.65, y: 0}
+      - {x: -4.65, y: 0}
+      hardEdge: 
+      priorityNodeIndexLeft: 0
+      priorityNodeIndexRight: 1
+      nodesV3: []
+      lanes: []
+      leftLanes: -1
+      rightLanes: -1
+      symmetrical: 1
+      leftSidewalkOffset: 0
+      rightSidewalkOffset: 0
+      outerLaneMarkingLeftIndex: -1
+      includeOuterlaneLeftInShape: 0
+      includeOuterlaneRightInShape: 0
+      outerLaneMarkingRightIndex: -1
+      outerOuterLaneMarkingLeftIndex: -1
+      outerOuterLaneMarkingRightIndex: -1
+      selectedNode: 0
+      selectedLaneNode: 0
+      isSymmetrical: 0
+      isset: 1
+    minSpeed: 45
+    maxSpeed: 55
+    speedLimit: 50
+    speedLimitConnections: 50
+    roadShape:
+    - {x: 1.5825, y: 0}
+    - {x: -1.5825, y: 0}
+    roadShapeExt: []
+    roadShapeExt2: []
+    doConnectionTri: 
+    doConnectionTriExt: 
+    roadShapeUVs:
+    - 0
+    - 1
+    roadShapeExtUVs: []
+    roadShapeExtUVs2: []
+    roadShapeUVs2:
+    - 0
+    - 1
+    preserveUVs: 0
+    hardEdge: 
+    roadShapeVecsString: 
+    defaultSidewalk: 0
+    sidewalks: 0
+    sidewalkHeight: 0.2
+    sidewalkWidth: 2
+    crosswalks: 0
+    crosswalkIntervals: 100
+    crosswalksIntersections: 0
+    crosswalkPrefab: {fileID: 0}
+    crosswalkHeightOffset: 0.01
+    crosswalkType: 1
+    roadMaterial: {fileID: 2100000, guid: d7ff472f67f46d146907b2d0a63ad597, type: 2}
+    roadMaterials: []
+    roadPhysicsMaterial: {fileID: 0}
+    roadPhysicsMaterials: []
+    connectionMaterial: {fileID: 2100000, guid: d7ff472f67f46d146907b2d0a63ad597,
+      type: 2}
+    isSideObject: 0
+    isCustomRoad: 0
+    subSegments: 1
+    soData: []
+    soDataExt: []
+    soDataLog:
+    - id: 1523430784.1804347
+      active: 0
+    - id: 1523431033.2050576
+      active: 0
+    - id: 1523351309.232092
+      active: 0
+    - id: 1523352651.5264447
+      active: 0
+    - id: 1524816465.7802632
+      active: 0
+    - id: 1524828737.4723313
+      active: 0
+    - id: 1524829690.138856
+      active: 0
+    - id: 1524829763.4040947
+      active: 0
+    - id: 1524829547.0710456
+      active: 0
+    - id: 1524829842.156426
+      active: 0
+    - id: 1524816557.471731
+      active: 0
+    - id: 1524828755.419544
+      active: 0
+    - id: 1524814929.088389
+      active: 0
+    - id: 1524828773.265978
+      active: 0
+    - id: 1524816430.0227156
+      active: 0
+    - id: 1524828859.280156
+      active: 0
+    - id: 1524815514.0662813
+      active: 0
+    - id: 1524828878.3989716
+      active: 0
+    - id: 1524815893.6309447
+      active: 0
+    - id: 1524828903.514737
+      active: 0
+    - id: 1572379853.7483516
+      active: 0
+    - id: 1524824055.8238192
+      active: 0
+    - id: 1522931713.5084984
+      active: 0
+    - id: 1523862559.4048278
+      active: 0
+    - id: 1523357355.1947017
+      active: 0
+    - id: 1523862583.3901153
+      active: 0
+    - id: 1523023149.9464264
+      active: 0
+    - id: 1523862637.5912688
+      active: 0
+    - id: 1523357417.9326303
+      active: 0
+    - id: 1523862653.8575282
+      active: 0
+    - id: 1523023131.781623
+      active: 0
+    - id: 1523022726.7189484
+      active: 0
+    - id: 1522918957.1975331
+      active: 0
+    - id: 1522933852.0558095
+      active: 0
+    - id: 1524836184.6664476
+      active: 0
+    - id: 1524836635.6867387
+      active: 0
+    - id: 1524836372.2124405
+      active: 0
+    layer: 0
+    isStatic: 1
+    tag: Untagged
+    splatMapActive: 0
+    splatIndex: 0
+    expandLevel: 0
+    smoothLevel: 1
+    splatOpacity: 1
+    followTerrainContours: 0
+    terrainContoursOffset: 5
+    terrainDeformation: 1
+    defaultIndent: 2
+    defaultSurrounding: 2
+    maxRoadheight: 0
+    maxTerrainHeightOffset: 0
+    minTerrainHeightDistance: 5
+    maxTerrainHeightDistance: 15
+    castShadow: 0
+    randomnessFlag: 0
+    randomYPosition: 0
+    randomMinYPosition: -0.02
+    randomMaxYPosition: 0.02
+    minRandomYPositionDistance: 15
+    maxRandomYPositionDistance: 35
+    randomMinRotation: -1
+    randomMaxRotation: 1
+    minRandomRotationDistance: 15
+    maxRandomRotationDistance: 30
+    vegetationStudioMaskLineActive: 1
+    vegetationStudioGrassPerimeter: 2
+    vegetationStudioPlantPerimeter: 3
+    vegetationStudioTreePerimeter: 4
+    vegetationStudioObjectPerimeter: 3
+    vegetationStudioLargeObjectPerimeter: 4
+    vegetationStudioBiomeMaskActive: 0
+    vegetationStudioBiomeMaskDistance: 0
+    vegetationStudioBiomeMaskBlendDistance: 0
+    vegetationStudioBiomeMaskNoiseScale: 0
+    decalPresets: []
+    decalClassPresets: []
+    defaultRamp: 0
+    extrusionType: 0
+    extrusionDistance: 10
+    fixedDistance: 5
+    connectionAngle: 25
+    connectionRadius: 10
+    oneWay: 0
+    cornerRadiusMainRoad: 3
+    cornerSementsMainRoad: 6
+    cornerRadiusSecondaryRoad: 3
+    cornerRadiusSecondaryCurvature: 0.5
+    cornerSementsSecondaryRoad: 6
+    mainRoadsOnly: 0
+    isRoadShape: 1
+    controlType: 0
+    vertexColor: {r: 1, g: 1, b: 1, a: 1}
+    trafficPosts: []
+    activeTrafficPostIndex: -1
+    showTrafficPosts: 0
   crossingCornerPresets: []
   sidewalkPresets: []
   textureData: []
