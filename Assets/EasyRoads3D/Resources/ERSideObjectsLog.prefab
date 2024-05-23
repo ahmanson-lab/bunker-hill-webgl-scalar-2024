@@ -48,7 +48,7 @@ MonoBehaviour:
   - version: 2.0.0
     name: Curb Left
     id: 1523430784.1804347
-    timestamp: 1707767913.987244
+    timestamp: 1716401035.136884
     objectType: 2
     gameobjectGUID: 
     textureGUID: 
@@ -116,16 +116,16 @@ MonoBehaviour:
     childOrderActive: 0
     childOrder: 0
     meshBoundsAlignment: 0
-    xPosition: 0.1
+    xPosition: 3.91
     xPosition2: 0
-    relativeTo: 1
-    yPosition: 0.02
+    relativeTo: 0
+    yPosition: 4.87
     yRotation: 0
     oldSidwaysDistance: 0
     sidewaysDistanceUpdate: 0
     uvYRound: 0
     adjustUV: 1
-    collider: 1
+    collider: 0
     boxcollider: 0
     tangents: 0
     sourceObject: {fileID: 1968183168256638, guid: 42f17f82fbc8b5147808a08ad9a9e494,
@@ -200,7 +200,7 @@ MonoBehaviour:
     markerSurrounding: 0
     indentController: 0
     excludeTerrainSplats: 0
-    scale: {x: 3, y: 3, z: 3}
+    scale: {x: 1, y: 1, z: 1}
     indentExt: 0
     category: 4
     densityMap: {fileID: 0}
@@ -309,7 +309,7 @@ MonoBehaviour:
     maxBaseRotation: 0
     baseChildIndex: -1
     baseConnectorIndex: -1
-    continueOnConnections: 1
+    continueOnConnections: 0
     ignoreOffsetsOnConnections: 0
     triangulateDualSided: 0
     dualSidedMaterial: {fileID: 0}
@@ -4356,7 +4356,7 @@ MonoBehaviour:
   - version: 2.0.0
     name: Line Right
     id: 1524815514.0662813
-    timestamp: 1587660335.4646668
+    timestamp: 1716405376.973008
     objectType: 2
     gameobjectGUID: 
     textureGUID: 
@@ -13688,7 +13688,7 @@ MonoBehaviour:
     showTrafficPosts: 0
   - roadTypeName: 80ft Street
     id: 1707429718.796526
-    timestamp: 1710965605.3791199
+    timestamp: 1716400961.226856
     roadWidth: 17
     totalLanes: 2
     laneWidth: 3.5
@@ -13774,7 +13774,7 @@ MonoBehaviour:
     soDataExt: []
     soDataLog:
     - id: 1523430784.1804347
-      active: 0
+      active: 1
     - id: 1523431033.2050576
       active: 0
     - id: 1523351309.232092
