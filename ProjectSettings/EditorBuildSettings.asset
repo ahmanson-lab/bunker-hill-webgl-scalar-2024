@@ -14,8 +14,11 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Figeuroa_to_Hope 2.unity
     guid: fbc4ece45eb283b47b42c50238e20865
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Figeuroa_to_Hope_2_New_Roads_Terrain.unity
     guid: f2250c45bd23c704682b98b923a5c7a9
+  - enabled: 1
+    path: Assets/Scenes/WebGL_1_Flower_St.unity
+    guid: 73709b9f933a40a42ab7ac25371368d8
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
